@@ -31,3 +31,10 @@ http://suro.ubaya.ac.id/archlinux/$repo/os/$arch
 http://mirror.telkomuniversity.ac.id/archlinux/$repo/os/$arch
 https://mirror.telkomuniversity.ac.id/archlinux/$repo/os/$arch
 ```
+
+### Manjaro Linux
+```http
+http://mirror.deace.id/manjaro
+https://mirror.deace.id/manjaro
+http://kartolo.sby.datautama.net.id/manjaro
+```
