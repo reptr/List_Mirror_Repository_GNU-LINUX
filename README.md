@@ -26,16 +26,8 @@ https://repo.opensuse.id/distribution/leap/
 
 ```http
 http://mirror.labkom.id/archlinux/$repo/os/$arch
-```
-```http
 http://mirror.poliwangi.ac.id/archlinux/$repo/os/$arch
-```
-```http
 http://suro.ubaya.ac.id/archlinux/$repo/os/$arch
-```
-```http
 http://mirror.telkomuniversity.ac.id/archlinux/$repo/os/$arch
-```
-```http
 https://mirror.telkomuniversity.ac.id/archlinux/$repo/os/$arch
 ```
