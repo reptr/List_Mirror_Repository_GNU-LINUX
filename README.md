@@ -38,3 +38,9 @@ http://mirror.deace.id/manjaro
 https://mirror.deace.id/manjaro
 http://kartolo.sby.datautama.net.id/manjaro
 ```
+
+### SOURCE
+```http
+https://www.archlinux.org/mirrorlist/all/
+https://repo.manjaro.org/
+```
